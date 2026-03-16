@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Data+Scientist+%7C+AI+Engineer+%7C+Builder;From+raw+data+to+production+AI;Python+%C2%B7+ML+%C2%B7+LLMs+%C2%B7+Data+Engineering;Paris+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Data+Scientist+%7C+AI+Engineer+%7C+Builder;From+raw+data+to+production+AI;Python+%C2%B7+ML+%C2%B7+LLMs+%C2%B7+Data+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 ### About
 
-Entrepreneur and AI builder based in Paris.
+Entrepreneur and AI builder.
 
 I design and ship **data-driven products** — from data pipelines and ML models to AI-powered applications. Equally comfortable wrangling messy datasets, training models, and deploying production-ready systems.
 
@@ -142,27 +142,6 @@ Always exploring what's next at the intersection of **data science, artificial i
 
 #### ⚡ Automation
 `Make` · `n8n` · `Zapier` · `Apify` · `Bubble` · `Stripe`
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### Activity
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=datarthur&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=datarthur&hide_border=true&background=0d1117&stroke=1b2838&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=datarthur&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contributions" />
 
 </div>
 
