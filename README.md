@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SVG HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                         HEADER                              -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/datarthur">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1b2a,60:1b2838,100:0d1117&height=220&section=header&text=datarthur&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Data%20%C2%B7%20AI%20%C2%B7%20Build%20%C2%B7%20Ship&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe,30:d0e1fd,60:b8d4fc,100:e8f0fe&height=220&section=header&text=datarthur&fontSize=60&fontColor=1a56db&fontAlignY=35&desc=Data%20%C2%B7%20AI%20%C2%B7%20Build%20%C2%B7%20Ship&descSize=16&descColor=4b6bfb&descAlignY=55&animation=fadeIn" />
-    <img width="100%" alt="header" />
-  </picture>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b4b,100:58a6ff&height=200&text=datarthur&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Data+Scientist+%7C+AI+Engineer+%7C+Builder;From+raw+data+to+production+AI;Python+%C2%B7+ML+%C2%B7+LLMs+%C2%B7+Data+Engineering" alt="Typing SVG" />
 
@@ -27,11 +21,9 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           ABOUT                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datarthur&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT                              -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
 ### About
 
@@ -41,13 +33,11 @@ I design and ship **data-driven products** — from data pipelines and ML models
 
 Always exploring what's next at the intersection of **data science, artificial intelligence, and product**.
 
-<br clear="right"/>
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                            -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -147,18 +137,11 @@ Always exploring what's next at the intersection of **data science, artificial i
 
 <br/>
 
----
+<!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<sub>
 
-*Build with data. Ship with AI. Scale with conviction.*
-
-</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1b2a,60:1b2838,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,50:1a1b4b,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
 
