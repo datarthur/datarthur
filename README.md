@@ -1,148 +1,32 @@
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                         HEADER                              -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b4b,100:58a6ff&height=200&text=datarthur&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Data+Scientist+%7C+AI+Engineer+%7C+Builder;From+raw+data+to+production+AI;Python+%C2%B7+ML+%C2%B7+LLMs+%C2%B7+Data+Engineering" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/𝕏-0d1117?style=flat-square&logo=x&logoColor=58a6ff" /></a>&nbsp;&nbsp;
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" /></a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=datarthur&color=58a6ff&style=flat-square&label=views" />
 
 </div>
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT                              -->
-<!-- ════════════════════════════════════════════════════════════ -->
+Data Scientist · AI Engineer · Builder
 
-### About
-
-Entrepreneur and AI builder.
-
-I design and ship **data-driven products** — from data pipelines and ML models to AI-powered applications. Equally comfortable wrangling messy datasets, training models, and deploying production-ready systems.
-
-Always exploring what's next at the intersection of **data science, artificial intelligence, and product**.
+I build data-driven products — from pipelines and ML models to AI-powered applications.
 
 <br/>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                            -->
-<!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### Tech Stack
+`Python` · `SQL` · `Pandas` · `Scikit-Learn` · `TensorFlow` · `PyTorch` · `LangChain`
 
-<br/>
+`BigQuery` · `Airflow` · `Docker` · `FastAPI` · `Streamlit` · `GCP` · `Git`
 
-<table>
-<tr>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" /><br/>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" /><br/>
-<sub><b>SQL</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" /><br/>
-<sub><b>TensorFlow</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" /><br/>
-<sub><b>PyTorch</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" /><br/>
-<sub><b>Docker</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" /><br/>
-<sub><b>GCP</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" /><br/>
-<sub><b>AWS</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=git" width="40" height="40" /><br/>
-<sub><b>Git</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" /><br/>
-<sub><b>FastAPI</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=flask" width="40" height="40" /><br/>
-<sub><b>Flask</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" /><br/>
-<sub><b>Linux</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" /><br/>
-<sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=redis" width="40" height="40" /><br/>
-<sub><b>Redis</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" /><br/>
-<sub><b>Kubernetes</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" /><br/>
-<sub><b>CI/CD</b></sub>
-</td>
-<td align="center" width="88">
-<img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" /><br/>
-<sub><b>VS Code</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-#### 🧠 Data Science & ML
-`Pandas` · `NumPy` · `Scikit-Learn` · `XGBoost` · `LightGBM` · `CatBoost` · `SciPy` · `Statsmodels`
-
-#### 🤖 AI & LLMs
-`LangChain` · `OpenAI API` · `Hugging Face` · `Transformers` · `RAG` · `Fine-Tuning` · `Prompt Engineering`
-
-#### 🔧 Data Engineering
-`BigQuery` · `Spark` · `Airflow` · `dbt` · `Snowflake` · `Kafka` · `ETL/ELT`
-
-#### 📊 Visualization & BI
-`Matplotlib` · `Seaborn` · `Plotly` · `Looker Studio` · `Tableau` · `Streamlit` · `Gradio`
-
-#### ⚡ Automation
-`Make` · `n8n` · `Zapier` · `Apify` · `Bubble` · `Stripe`
+`Looker Studio` · `Tableau` · `Make` · `n8n`
 
 </div>
 
 <br/>
-
-<!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:58a6ff,50:1a1b4b,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
-
 
