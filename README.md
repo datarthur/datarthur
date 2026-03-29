@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=%3E+Data+Scientist+%2F%2F+AI+Engineer+%2F%2F+Builder;%3E+Turning+raw+data+into+intelligent+systems;%3E+Building+what's+next+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&duration=3000&pause=1500&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=%3E+ML+Engineer+%2F%2F+AI+Builder;%3E+Deep+Learning+%7C+NLP+%7C+LLMs+%7C+MLOps;%3E+From+research+to+production+_" alt="Typing SVG" />
 
 <br/>
 
@@ -21,10 +21,9 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║   I build data-driven products — from pipelines and      ║
-║   ML models to AI-powered applications.                  ║
-║                                                          ║
-║   From raw data to production AI.                        ║
+║   I design, train, and deploy ML/AI systems —            ║
+║   from deep learning models and LLM pipelines            ║
+║   to production-grade AI applications.                   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -33,23 +32,33 @@
 
 <br/>
 
+<!-- ══════════════ ML & DEEP LEARNING ══════════════ -->
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,pytorch,docker,gcp,aws,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,kubernetes,gcp,aws&theme=dark" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,linux,mongodb,redis,kubernetes,githubactions,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb,redis,linux,githubactions,git&theme=dark" />
 
 <br/><br/>
 
-`Pandas` · `NumPy` · `Scikit-Learn` · `XGBoost` · `LightGBM` · `CatBoost`
+#### 🧠 Machine Learning
+`Scikit-Learn` · `XGBoost` · `LightGBM` · `CatBoost` · `SciPy` · `Statsmodels` · `Feature Engineering` · `Hyperparameter Tuning`
 
-`LangChain` · `Hugging Face` · `Transformers` · `RAG` · `Fine-Tuning`
+#### 🔥 Deep Learning
+`PyTorch` · `TensorFlow` · `Keras` · `CNNs` · `RNNs` · `Transformers` · `GANs` · `Transfer Learning`
 
-`BigQuery` · `Spark` · `Airflow` · `dbt` · `Snowflake`
+#### 🤖 LLMs & NLP
+`LangChain` · `LlamaIndex` · `OpenAI API` · `Hugging Face` · `RAG` · `Fine-Tuning` · `Prompt Engineering` · `Vector Databases`
 
-`Matplotlib` · `Plotly` · `Looker Studio` · `Tableau` · `Streamlit`
+#### ⚙️ MLOps & Deployment
+`MLflow` · `Weights & Biases` · `Docker` · `Kubernetes` · `FastAPI` · `Airflow` · `CI/CD` · `Model Monitoring`
 
-`Make` · `n8n` · `Zapier` · `Apify`
+#### 🔧 Data & Infrastructure
+`Pandas` · `NumPy` · `Spark` · `BigQuery` · `Snowflake` · `dbt` · `Kafka` · `ETL/ELT`
+
+#### 📊 Visualization
+`Matplotlib` · `Seaborn` · `Plotly` · `Streamlit` · `Gradio`
 
 </div>
 
