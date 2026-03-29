@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--  🏴‍☠️  REPLACE the image below with your own One Piece     -->
-<!--  GIF or image. Upload it to your repo and change the src.  -->
-<!--  Recommended size: 800×300 or similar wide banner.          -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0c2340,60:1a4a6e,100:2e8bc0&height=250&text=datarthur&fontSize=65&fontColor=f0e68c&fontAlignY=40&desc=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20ML%20Engineer%20%C2%B7%20AI%20Builder&descSize=16&descColor=87CEEB&descAlignY=60&animation=fadeIn&section=header" width="100%" />
 
 <!-- 
@@ -42,31 +36,15 @@
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                       CAPTAIN'S LOG                         -->
-<!-- ════════════════════════════════════════════════════════════ -->
+---
 
-<div align="center">
+> I design, train, and deploy ML/AI systems — from deep learning models and LLM pipelines to production-grade applications.
 
-### 🧭 Captain's Log
-
-</div>
-
-> *ML Engineer & AI Builder navigating the Grand Line of data.*
-> 
-> *I design, train, and deploy ML/AI systems — from deep learning models and LLM pipelines to production-grade applications. Every dataset is an island. Every model is a ship. The goal is One Piece.*
+---
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                        ARSENAL                              -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-### ⚔️ Arsenal
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,kubernetes,gcp,aws&theme=dark" />
 <br/><br/>
@@ -74,19 +52,19 @@
 
 <br/><br/>
 
-#### 🧠 Devil Fruits — ML & Deep Learning
+#### 🧠 ML & Deep Learning
 `Scikit-Learn` · `XGBoost` · `LightGBM` · `CatBoost` · `PyTorch` · `TensorFlow` · `CNNs` · `Transformers` · `GANs`
 
-#### 🤖 Haki — LLMs & NLP
+#### 🤖 LLMs & NLP
 `LangChain` · `LlamaIndex` · `Hugging Face` · `OpenAI API` · `RAG` · `Fine-Tuning` · `Vector DBs` · `Prompt Engineering`
 
-#### ⚙️ Ship — MLOps & Deployment
+#### ⚙️ MLOps & Deployment
 `MLflow` · `Weights & Biases` · `Docker` · `Kubernetes` · `FastAPI` · `Airflow` · `CI/CD`
 
-#### 🗺️ Navigation — Data Engineering
+#### 🔧 Data Engineering
 `Pandas` · `NumPy` · `Spark` · `BigQuery` · `Snowflake` · `dbt` · `Kafka`
 
-#### 🔭 Telescope — Visualization
+#### 📊 Visualization
 `Streamlit` · `Gradio` · `Plotly` · `Matplotlib` · `Seaborn`
 
 </div>
