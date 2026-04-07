@@ -5,9 +5,6 @@
 <br/>
 
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0c2340?style=flat-square&logo=linkedin&logoColor=87CEEB" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/𝕏-0c2340?style=flat-square&logo=x&logoColor=87CEEB" /></a>&nbsp;&nbsp;
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0c2340?style=flat-square&logo=gmail&logoColor=87CEEB" /></a>
-
 </div>
 
 <br/>
