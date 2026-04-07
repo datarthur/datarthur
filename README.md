@@ -12,19 +12,27 @@
 
 <br/>
 
-> I design, train, and deploy ML/AI systems — from data pipelines and ML models to LLM-powered applications.
+> I design, train, and deploy ML/AI systems — from data analysis and machine learning models to LLM-powered applications.
 
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,gcp,fastapi,postgres,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
-`Pandas` · `NumPy` · `Scikit-Learn` · `XGBoost` · `LangChain` · `Hugging Face`
+#### 🧠 Machine Learning
+`Scikit-Learn` · `K-Means` · `Random Forest` · `Isolation Forest` · `Pandas` · `NumPy`
 
-`BigQuery` · `Airflow` · `MLflow` · `Streamlit` · `Plotly`
+#### 🤖 LLMs & RAG
+`LangChain` · `Anthropic API (Claude)` · `Hugging Face` · `Sentence-Transformers` · `ChromaDB` · `Prompt Engineering`
+
+#### 📊 Data & Visualization
+`Plotly` · `Streamlit` · `Matplotlib`
+
+#### 🔌 APIs & Tooling
+`Riot API` · `REST APIs` · `Git` · `GitHub`
 
 </div>
 
