@@ -16,25 +16,39 @@
 
 <br/>
 
-<div align="center">
+### 🧠 Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,git,github,vscode&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<br/><br/>
+<br/>
 
-#### 🧠 Machine Learning
-`Scikit-Learn` · `K-Means` · `Random Forest` · `Isolation Forest` · `Pandas` · `NumPy`
+### 🤖 LLMs & RAG
 
-#### 🤖 LLMs & RAG
-`LangChain` · `Anthropic API (Claude)` · `Hugging Face` · `Sentence-Transformers` · `ChromaDB` · `Prompt Engineering`
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 
-#### 📊 Data & Visualization
-`Plotly` · `Streamlit` · `Matplotlib`
+<br/>
 
-#### 🔌 APIs & Tooling
-`Riot API` · `REST APIs` · `Git` · `GitHub`
+### 📊 Data & Visualization
 
-</div>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br/>
+
+### 🔌 APIs & Tooling
+
+![Riot Games](https://img.shields.io/badge/Riot_API-D32936?style=for-the-badge&logo=riotgames&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br/>
 
